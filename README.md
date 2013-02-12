@@ -5,3 +5,6 @@ Please submit a pull request with any commands that you use regularly with a bri
 
 ### Basic syntax
 Anything that needs to be replaced by the user will be placed inside `{{}}`
+
+### Credit
+When applicable I want to link to the original place I found the UNIX command.
